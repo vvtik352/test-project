@@ -1,0 +1,24 @@
+{
+  "name": "test-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "jest",
+    "build": "echo \"No build step required\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vvtik352/test-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vvtik352/test-project/issues"
+  },
+  "homepage": "https://github.com/vvtik352/test-project#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
